@@ -12,7 +12,7 @@ We focus on hypothesis testing (e.g., age effect, hypertension effect, BMI diffe
 ## Contributors
 - Dina Othman  
 - Thiago Alvares
-- 
+  
 ## Methods Used
 - Data Cleaning & Preparation
 - Exploratory Data Analysis
