@@ -45,9 +45,4 @@ We analyze the **Stroke Prediction Dataset** (Kaggle, by Fedesoriano).
 - Compare logistic regression performance with a machine learning model (Random Forest for example).  
 - Report results with confidence intervals, p-values, and AUC scores.  
 
-## Installation
-To run this project locally:
-```bash
-git clone https://github.com/Daynomoon/stroke-analysis-project.git
-cd stroke-analysis-project
-pip install -r requirements.txt
+
