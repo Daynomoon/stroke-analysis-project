@@ -33,15 +33,15 @@ We analyze the **Stroke Prediction Dataset** (Kaggle, by Fedesoriano).
 - **Variables include:** age, gender, hypertension, heart disease, BMI, glucose level, smoking status, marital status, residence type, etc.  
 - **Target:** stroke (0 = No, 1 = Yes)  
 
-**Hypotheses to Explore:**
-1. Older age increases the odds of stroke.  
-2. Hypertension remains a significant predictor of stroke after adjusting for age and BMI.  
-3. Mean BMI differs between stroke and non-stroke groups.  
+**Hypothesis to Explore:**
+1. Null Hypothesis (H0): Age has no significant relationship with the likelihood of having a stroke.
+
+Alternative Hypothesis (H1): Age has a significant relationship with the likelihood of having a stroke.  
  
 
 **Analysis Plan:**
 - Clean and prepare data (handle missing BMI values, encode categorical features).  
-- Conduct statistical hypothesis testing (t-tests, chi-square tests, logistic regression).  
+- Conduct statistical hypothesis testing (t-tests, 95% Confidence Interval (CI) Estimation, logistic regression).  
 - Compare logistic regression performance with a machine learning model (Random Forest for example).  
 - Report results with confidence intervals, p-values, and AUC scores.  
 
