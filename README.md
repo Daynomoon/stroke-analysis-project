@@ -1,7 +1,7 @@
 # Stroke Prediction Statistical Analysis
 
 ## Project Status
-Active
+Completed
 
 ## Project Intro / Objective
 This project is part of the **AAI-500-02 course** in the Applied Artificial Intelligence program at the University of San Diego.  
